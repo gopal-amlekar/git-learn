@@ -1,0 +1,2 @@
+Hello this is a text file for testing new branch
+This file is created and committed on the new branch after checking out the newbranch
