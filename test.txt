@@ -2,3 +2,4 @@ Hello this file is in main folder
 To be used for learning branching
 Adding a line from master
 One ore line
+another line
